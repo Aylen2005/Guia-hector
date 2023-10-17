@@ -4,7 +4,13 @@ function bl (a,b){
             return true
         }  
     }
+
+    asd
     return false
 }
 
 console.log(bl([2,5,7,3,8,11], 16));
+
+
+
+asd
